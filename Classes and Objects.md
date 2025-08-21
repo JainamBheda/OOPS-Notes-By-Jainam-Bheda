@@ -22,4 +22,7 @@ public class Jainam{
 ## Why Classes required ?
 
 - Classes is blueprint /  template for creating the objects.
-- It groups data and variable
+- It groups data and methods together.
+- Without classes, we’d have to write separate code for each object, which is **messy and repetitive**.
+
+## Objects
