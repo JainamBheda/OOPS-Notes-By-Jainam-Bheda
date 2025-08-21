@@ -2,4 +2,5 @@
 
 - In JAVA , basically constructor are used to initialize the object 
 - It plays important role while object creation 
-- `Whenever the object `
+- `Whenever the object is created Constructor is called`
+- This process happens automatically when we use `new` keyword to create the object 
