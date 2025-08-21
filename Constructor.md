@@ -21,3 +21,6 @@
 | **Invocation** | Called automatically when using the `new` keyword | Called explicitly using the object |
 | **Purpose**  | Used to initialize objects | Used to perform operations |
 
+## Types of Constructor
+
+- In Java there are three types of Constructor 
