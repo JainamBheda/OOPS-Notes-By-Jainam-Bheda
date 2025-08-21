@@ -6,3 +6,4 @@
 - JAVA is pure Object Oriented Programming language that follows OOPS principal. 
 - C++ is also uses OOPS.
 
+[[Classes and Objects]]

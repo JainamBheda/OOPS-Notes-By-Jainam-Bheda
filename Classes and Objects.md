@@ -32,4 +32,5 @@ public class Jainam{
 - To create the object of specific class -> specify the class name then object name then use `new` keyword.
 - Hence `new` keyword is used to create the object of a class.
 - example:
-		`Student s1 = new Student()`
+		`Student s1 = new Student()`;
+- Above we can see s1 is object name and student is class name and new keyword is used to create the object and Student() is constructor.
