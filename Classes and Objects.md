@@ -34,3 +34,11 @@ public class Jainam{
 - example:
 		`Student s1 = new Student()`;
 - Above we can see s1 is object name and student is class name and new keyword is used to create the object and Student() is constructor.
+
+```
+public class Jainam{
+	String name;
+	int age;
+	
+}
+```
