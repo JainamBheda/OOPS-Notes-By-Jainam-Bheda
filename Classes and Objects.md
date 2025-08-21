@@ -16,4 +16,4 @@ class Jainam{
 
 - The above code shows how to create the class.
 - You can see the class contains attributes and methods.
-- attributes are like 
+- Attributes are like variable. 
