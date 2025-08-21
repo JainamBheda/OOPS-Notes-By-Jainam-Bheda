@@ -31,4 +31,5 @@ public class Jainam{
 - An Object is instance of Class 
 - To create the object of specific class -> specify the class name then object name then use `new` keyword.
 - Hence `new` keyword is used to create the object of a class.
-- example"
+- example:
+		`Student s1 = new Student()`
