@@ -60,7 +60,6 @@ public class Main{
 
 	- Java allocated memory for the objects in the Heap area.
 	- The size of memory = sum of instance variable in the class.
-	- 
 
-2. 
+2. **Default Initialization**
 
