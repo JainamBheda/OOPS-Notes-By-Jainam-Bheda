@@ -37,15 +37,19 @@ public class Jainam{
 
 ```
 public class Jainam{
-	String name;
-	int age;
+	String name = "Bheda";
+	int age = 18;
 	Jainam(){
 		System.out.println("Construtor Called");
 	}
 }
 public class Main{
 	public static void main(String[] args){ 
-	Jainam obj = new Jainam();
-	
+		Jainam obj = new Jainam();
+		System.out.println(obj.age);
+		System.out.println(obj.name);
+	}
 }
 ```
+
+- 
