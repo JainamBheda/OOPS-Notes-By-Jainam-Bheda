@@ -66,6 +66,10 @@ public class Main{
 	- after memory allocation, the class constructor is called to *intialize* the object.
 	- `If you don't write the constructor JAVA automatically provide default construtor`
 4.**Reference variable Created**
-	  - In Stack , 
+	  - In Stack , points to object in Heap.
+
+
+Next we will learn about constructor in Java 
+basically Constructor in JAVA is used to intialize the 
 
 
