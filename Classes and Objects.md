@@ -62,4 +62,6 @@ public class Main{
 	- The size of memory = sum of instance variable in the class.
 
 2. **Default Initialization**
+3. **Constructor call**
+	- after memory allocation, the class constructor is called to *intialize* the
 
