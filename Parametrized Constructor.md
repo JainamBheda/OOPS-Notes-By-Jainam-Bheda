@@ -18,8 +18,9 @@ class Jainam{
 }
 class Main{
 	public static void main(String[] args){
-		Jainam obj = new Jainam();
-		obj.
+		Jainam obj = new Jainam("Jainam",20);
+		System.out.println(obj.name);
+		System.out.print
 	}
 }
 ```
