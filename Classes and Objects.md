@@ -39,6 +39,13 @@ public class Jainam{
 public class Jainam{
 	String name;
 	int age;
+	Jainam(){
+		System.out.println("Construtor Called");
+	}
+}
+public class Main{
+	public static void main(String[] args){ 
+	Jainam obj = new Jainam();
 	
 }
 ```
