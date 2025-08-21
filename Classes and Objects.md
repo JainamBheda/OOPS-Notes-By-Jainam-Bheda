@@ -21,4 +21,5 @@ public class Jainam{
 
 ## Why Classes required ?
 
-- 
+- Classes is blueprint /  template for creating the objects.
+- It groups data and variable
