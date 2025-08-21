@@ -11,4 +11,13 @@
 - No Return Type 
 - Automatically called whenever object is created.
 - Used to set intial values of an object attribute when it is created.
-- 
+
+## Constructor vs Method in Java
+
+| Feature      | Constructor | Method |
+|--------------|-------------|--------|
+| **Name**     | Must have the same name as the class | Can have any valid name |
+| **Return Type** | Does not return any type | Must have a return type or `void` if it does not return any value |
+| **Invocation** | Called automatically when using the `new` keyword | Called explicitly using the object |
+| **Purpose**  | Used to initialize objects | Used to perform operations |
+
