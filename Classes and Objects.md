@@ -57,7 +57,10 @@ public class Main{
 ## Step by process when `new`keyword is used.
 
 1. **Memory Allocation in Heap**
+
 	- Java allocated memory for the objects in the Heap area.
 	- The size of memory = sum of instance variable in the class.
+	- 
+
 2. 
 
