@@ -26,3 +26,7 @@ public class Jainam{
 - Without classes, we’d have to write separate code for each object, which is **messy and repetitive**.
 
 ## Objects
+
+- An Object is basic unit of OOPS that represent real life entities 
+- An Object is instance of Class 
+- 
