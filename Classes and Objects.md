@@ -70,6 +70,8 @@ public class Main{
 
 
 Next we will learn about constructor in Java 
-basically Constructor in JAVA is used to intialize the 
+basically Constructor in JAVA is used to initialize the object.
+[[Constructor]]
+
 
 
