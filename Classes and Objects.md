@@ -52,4 +52,5 @@ public class Main{
 }
 ```
 
-- 
+- So the above code shows that how to create the object using `new` keyword.
+
