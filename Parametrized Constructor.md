@@ -4,4 +4,15 @@
 - If we want to intialize the field of class with own values, then use a parameterized constructor.
 
 Example: 
-	The Below code shows the implementation of parametrized Constructor to initialize an object attribute with spec
+	The Below code shows the implementation of parametrized Constructor to initialize an object attribute with specific values.
+
+```
+import java.util.*;
+class Jainam{
+	String name;
+	int age;
+	Jainam(String name,int age){
+		
+	}
+}
+```
