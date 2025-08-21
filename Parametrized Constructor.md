@@ -12,7 +12,14 @@ class Jainam{
 	String name;
 	int age;
 	Jainam(String name,int age){
-		
+		this.name = name;
+		this.age = age;
+	}
+}
+class Main{
+	public static void main(String[] args){
+		Jainam obj = new Jainam();
+		obj.
 	}
 }
 ```
