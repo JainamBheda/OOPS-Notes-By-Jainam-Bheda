@@ -28,4 +28,4 @@
 	 2. [[Parametrized Constructor]]
 	 3. [[Copy Constructor]]
 
-Also the key concept related to Construc
+Also the key concept related to Constructor is [[Constructor Overloading]].
