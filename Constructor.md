@@ -4,3 +4,10 @@
 - It plays important role while object creation 
 - `Whenever the object is created Constructor is called`
 - This process happens automatically when we use `new` keyword to create the object 
+
+## Characteristics of Construtor
+
+- Same Name as Class.
+- No Return Type 
+- Automatically called whenever object is created.
+- Used to set intial values 
