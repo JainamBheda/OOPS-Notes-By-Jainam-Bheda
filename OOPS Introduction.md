@@ -1,3 +1,3 @@
 ## OOPS
 
-- So OOPS stand for 
+- So OOPS stand for Object Oriented Programming 
