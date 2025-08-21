@@ -10,4 +10,5 @@
 - Same Name as Class.
 - No Return Type 
 - Automatically called whenever object is created.
-- Used to set intial values 
+- Used to set intial values of an object attribute when it is created.
+- 
