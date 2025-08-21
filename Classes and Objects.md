@@ -63,5 +63,6 @@ public class Main{
 
 2. **Default Initialization**
 3. **Constructor call**
-	- after memory allocation, the class constructor is called to *intialize* the
-
+	- after memory allocation, the class constructor is called to *intialize* the object.
+	- `If you don't write the constructor JAVA automatically provide default construtor`
+4. Reference variable 
