@@ -14,7 +14,7 @@ class A{
 class B{
 	public static void main(String[] args){
 		A obj = new A();
-		A.displa
+		A.display();
 	}
 }
 ```
