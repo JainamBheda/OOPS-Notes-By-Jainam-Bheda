@@ -26,4 +26,5 @@ class Bheda{
 }
 ```
 
-''
+`IN THE ABOVE EXAMPLE IT WILL SHOW COMPILE TIME ERROR AS classes are from different package.`
+
