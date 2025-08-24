@@ -20,7 +20,10 @@ package p2;
 import p1.*;
 class Bheda{
 	public static void main(String []args){
-		Bheda b = nre
+		Jainam b = new Jainam();
+		b.display();
 	}
 }
 ```
+
+''
